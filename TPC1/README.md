@@ -3,9 +3,8 @@
 ## Autor
 * **Nome:** Mafalda Cerqueira da Silva
 * **Identificador:** A114484
-* **Foto:** 
+* **Foto:** <img src="foto.jpg" width="150">
 
 ## Resumo
-Insira aqui a sua lista de parágrafos que resumem o trabalho:
-
+Criação de um repositório na GitHub
 ## Lista de Resultados
