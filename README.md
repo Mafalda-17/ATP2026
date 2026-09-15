@@ -1,2 +1,0 @@
-# ATP2026
-TPC de ATP
