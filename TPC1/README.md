@@ -2,9 +2,11 @@
 
 ## Autor
 * **Nome:** Mafalda Cerqueira da Silva
-* **Identificador:** A114484
+* **Número de aluno:** A114484
 * **Foto:** <img src="foto.jpg" width="150">
 
 ## Resumo
-Criação de um repositório na GitHub
+Acabar o jogo do Maze nível 10
+
+Fazer o desenho do barco no Turtle
 ## Lista de Resultados
