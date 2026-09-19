@@ -1,4 +1,4 @@
-# Manifesto: Trabalho Prático de Casa (TPC)
+# Trabalho Prático de Casa 1 (TPC)
 
 ## Autor
 * **Nome:** Mafalda Cerqueira da Silva
@@ -10,3 +10,4 @@ Acabar o jogo do Maze nível 10
 
 Fazer o desenho do barco no Turtle
 ## Lista de Resultados
+Maze nível 10: 
