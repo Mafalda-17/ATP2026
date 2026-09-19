@@ -11,4 +11,5 @@ Acabar o jogo do Maze nível 10
 
 Fazer o desenho do barco no Turtle
 ## Lista de Resultados
-Maze nível 10: <img width="500" height="300" alt="nivel 10 maze" src="https://github.com/user-attachments/assets/04c2a4f8-d65a-4bcc-8a30-89ba3640e209" />
+Maze nível 10: https://blockly.games/maze?lang=en&level=10&&skin=0#mq6akm
+<img width="500" height="250" alt="nivel 10 maze" src="https://github.com/user-attachments/assets/04c2a4f8-d65a-4bcc-8a30-89ba3640e209" />
