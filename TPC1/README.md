@@ -1,3 +1,4 @@
+
 # Trabalho Prático de Casa 1 (TPC)
 
 ## Autor
@@ -10,4 +11,4 @@ Acabar o jogo do Maze nível 10
 
 Fazer o desenho do barco no Turtle
 ## Lista de Resultados
-Maze nível 10: 
+Maze nível 10: <img width="1897" height="786" alt="nivel 10 maze" src="https://github.com/user-attachments/assets/04c2a4f8-d65a-4bcc-8a30-89ba3640e209" />
