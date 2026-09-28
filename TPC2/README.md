@@ -15,3 +15,4 @@ Depois de acertar o número é necessário o programa imprimir o número de tent
 
 
 ## Lista de Resultados
+ [jogo.py](jogo.py)
