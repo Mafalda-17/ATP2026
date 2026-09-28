@@ -3,7 +3,7 @@
 ## Autor
 * **Nome:** Mafalda Cerqueira da Silva
 * **Número de aluno:** A114484
-* **Foto:** <img src="foto.jpg" width="150">
+* **Foto:** <img src="foto passe.jpg" width="150">
 
 ## Resumo
 Criar um programa em Python para jogar o jogo "Adivinha o jogo"
