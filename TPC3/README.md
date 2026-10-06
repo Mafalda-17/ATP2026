@@ -15,3 +15,5 @@ O total começa em 0. O jogador e o computador alternam somando um número de 1 
 Implementa o jogo com 2 vertentes: o computador joga primeiro (deverá ganhar sempre), e o computador joga em segundo lugar (poderá ganhar ou não dependendo das jogadas do outro).
 
 ## Lista de Resultados
+
+[Jogo de Python](jogo2.py)
