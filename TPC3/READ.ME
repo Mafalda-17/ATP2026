@@ -6,57 +6,15 @@
 * **Foto:** <img src="foto.jpg" width="150">
 
 ## Resumo
+O total começa em 0. O jogador e o computador alternam somando um número de 1 a 10 ao total. Quem atingir exatamente o número 100 vence.
+
+• Se o computador jogar primeiro deverá vencer;
+
+• Se o computador jogar em segundo poderá vencer se o outro jogador fizer uma aposto fora da estratégia vencedora.
+
+Implementa o jogo com 2 vertentes: o computador joga primeiro (deverá ganhar sempre), e o computador joga em segundo lugar (poderá ganhar ou não dependendo das jogadas do outro).
 
 ## Lista de Resultados
-import random
 
-def computador():
-    máx=100
-    total=0
-    computador=1
-    total= total+computador
-    print("Computador escolheu:", computador)
-    print("Total:", total)
-    while total<100:
-        jogador=int(input("Escolha um número de 1 a 10:"))
-        while jogador < 1 or jogador > 10:
-            print("Número inválido!")
-            jogador = int(input("Escolha um número de 1 a 10: "))
-        total= total + jogador
-        print("Total=", total)
-        if total<100:
-            computador= 11 - jogador
-            total= total+computador
-            print("Computador escolheu:", computador)
-            print("Total:",total)
-    if total==100:
-        if jogador == 11 - computador:
-            print("Computador venceu!")
-computador()
-
-def jogador():
-    total= 0
-    ultima_jogada= ""
-    while total<100:
-        jogador=int(input("Escolha um número de 1 a 10:"))
-        while jogador < 1 or jogador > 10:
-                print("Número inválido!")
-                jogador = int(input("Escolha um número de 1 a 10: "))
-        total= total + jogador
-        print("Total:", total)
-        ultima_jogada="jogador"
-        if total<100:
-            computador= 11-jogador
-            total= total + computador
-            print("O computador escolheu", computador)
-            print("Total:", total)
-            ultima_jogada= "computador"
-    if total==100:
-        if ultima_jogada == "computador":
-            print("Computador venceu!")
-        else:
-            print("O jogador venceu!")
-jogador()
-
-
-
+      
+   
