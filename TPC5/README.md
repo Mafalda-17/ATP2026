@@ -30,3 +30,4 @@ Aplicação para gestão de alunos
 
 
 ## Lista de resultados
+[Aplicação para gestão de alunos](Tpc5.py)
