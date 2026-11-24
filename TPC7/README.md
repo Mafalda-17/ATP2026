@@ -6,7 +6,7 @@
 * **Foto:** <img src="foto passe.jpg" width="150">
 
 ## Resumo
-
+Teste de aferição e exercício da rede social
 
 
 ## Lista de resultados
