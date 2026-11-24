@@ -10,4 +10,4 @@
 
 
 ## Lista de resultados
-[Trabalho de casa 7](Tpc7.ipynb)
+[Trabalho de casa 7](tpc7.ipynb)
